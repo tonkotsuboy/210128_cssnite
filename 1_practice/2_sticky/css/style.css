@@ -63,10 +63,10 @@ main,
 .header_link-list {
   display: grid;
   grid-auto-flow: column;
-  gap: 60px;
-  font-size: 20px;
+  gap: 30px;
+  font-size: 18px;
   justify-content: end;
-  padding-right: 93px;
+  padding-right: 24px;
 }
 
 .header_link-list a {
