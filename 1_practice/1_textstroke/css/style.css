@@ -1,0 +1,15 @@
+body {
+  display: grid;
+  place-content: center;
+}
+
+.logo {
+  font-size: 128px;
+  padding: 24px;
+  letter-spacing: -2px;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  text-align: center;
+  line-height: 1;
+  color: red;
+}
+
