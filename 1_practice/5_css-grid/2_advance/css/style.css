@@ -3,8 +3,8 @@
 }
 
 .list_item__featured {
-  grid-column: span 2;
-  grid-row: span 2;
+  /*grid-column: span 2;*/
+  /*grid-row: span 2;*/
 }
 
 .list_item img {
