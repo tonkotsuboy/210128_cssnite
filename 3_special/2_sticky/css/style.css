@@ -41,16 +41,19 @@ main,
   z-index: 0;
 }
 
+main {
+  margin-top: calc(50vh + 24px);
+}
+
 .navigation {
   z-index: 2;
-  margin-top: calc(50vh + 24px);
   background-color: #393f43;
   height: 80px;
   display: grid;
   grid-auto-flow: column;
   align-items: center;
   position: sticky;
-  top: 0;
+  bottom: 0;
 }
 
 .brandlogo {
